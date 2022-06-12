@@ -1,0 +1,1 @@
+print("Jestem something2.")
