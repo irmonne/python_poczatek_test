@@ -1,4 +1,5 @@
 import geopy
+import requests
 
 
 def run_example():

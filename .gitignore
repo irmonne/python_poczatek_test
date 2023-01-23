@@ -1,6 +1,7 @@
 .idea/
 *.pyc
 other-env/
+some-env/
 
 
 
